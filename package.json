@@ -1,0 +1,14 @@
+{
+  "name": "holocure-launcher",
+  "version": "0.1.0",
+  "description": "Game launcher for HoloCure",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": ["HoloCure", "Launcher", "Neutralino"],
+  "author": "Adib Zaini",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.11.1"
+  }
+}
